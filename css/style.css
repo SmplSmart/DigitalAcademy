@@ -131,7 +131,7 @@ figure {
 }
 
 .fh5co-nav .top .fh5co-social li {
-  font-size: 14px;
+  font-size: 1rem;
 }
 
 .fh5co-nav .top .fh5co-social li a {
@@ -139,7 +139,7 @@ figure {
 }
 
 .fh5co-nav .top .fh5co-social li a i {
-  font-size: 14px;
+  font-size: 1rem;
 }
 
 .fh5co-nav #fh5co-logo {
@@ -180,8 +180,8 @@ figure {
 }
 
 .fh5co-nav ul li a {
-  font-size: 15px;
-  padding: 1.87rem 15px;
+  font-size: 1rem;
+  padding: 1.87rem 1rem;
   color: rgba(255, 255, 255, 0.5);
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
@@ -200,9 +200,9 @@ figure {
 
 .fh5co-nav ul li.has-dropdown .dropdown {
   width: 12.5rem;
-  -webkit-box-shadow: 0px 14px 33px -9px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 0px 14px 33px -9px rgba(0, 0, 0, 0.75);
-  box-shadow: 0px 14px 33px -9px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 0px 1rem 33px -9px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 1rem 33px -9px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 1rem 33px -9px rgba(0, 0, 0, 0.75);
   z-index: 1002;
   visibility: hidden;
   opacity: 0;
@@ -285,9 +285,9 @@ figure {
 }
 
 .fh5co-nav ul li.btn-cta a:hover span {
-  -webkit-box-shadow: 0px 14px 1.2rem -9px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 0px 14px 1.2rem -9px rgba(0, 0, 0, 0.75);
-  box-shadow: 0px 14px 1.2rem -9px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 0px 1rem 1.2rem -9px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 1rem 1.2rem -9px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 1rem 1.2rem -9px rgba(0, 0, 0, 0.75);
 }
 
 .fh5co-nav ul li.active>a {
@@ -333,9 +333,9 @@ figure {
   display: table;
   text-align: center;
   background: #fff;
-  -webkit-box-shadow: 0px 14px 1.87rem -15px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 0px 14px 1.87rem -15px rgba(0, 0, 0, 0.75);
-  box-shadow: 0px 14px 1.87rem -15px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 0px 1rem 1.87rem -1rem rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 1rem 1.87rem -1rem rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 1rem 1.87rem -1rem rgba(0, 0, 0, 0.75);
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -442,7 +442,7 @@ figure {
 
   .fh5co-cover.fh5co-cover-sm .display-t,
   .fh5co-cover.fh5co-cover-sm .display-tc {
-    height: 400px;
+    height: 100vh;
   }
 }
 
@@ -493,7 +493,7 @@ figure {
 #fh5co-header .display-tc .btn,
 #fh5co-counter .display-tc .btn,
 .fh5co-cover .display-tc .btn {
-  padding: 15px 1.87rem;
+  padding: 1rem 1.87rem;
   color: #fff;
   border: none !important;
   font-size: 18px;
@@ -546,9 +546,9 @@ figure {
 #fh5co-counter .display-tc .btn:hover,
 .fh5co-cover .display-tc .btn:hover {
   background: #EA9215 !important;
-  -webkit-box-shadow: 0px 14px 1.87rem -15px rgba(0, 0, 0, 0.75) !important;
-  -moz-box-shadow: 0px 14px 1.87rem -15px rgba(0, 0, 0, 0.75) !important;
-  box-shadow: 0px 14px 1.87rem -15px rgba(0, 0, 0, 0.75) !important;
+  -webkit-box-shadow: 0px 1rem 1.87rem -1rem rgba(0, 0, 0, 0.75) !important;
+  -moz-box-shadow: 0px 1rem 1.87rem -1rem rgba(0, 0, 0, 0.75) !important;
+  box-shadow: 0px 1rem 1.87rem -1rem rgba(0, 0, 0, 0.75) !important;
 }
 
 #fh5co-header .display-tc .form-inline .form-group,
@@ -630,7 +630,7 @@ figure {
 .fh5co-counters .fh5co-counter-label {
   color: rgba(0, 0, 0, 0.5);
   text-transform: uppercase;
-  font-size: 14px;
+  font-size: 1rem;
   letter-spacing: 5px;
   margin-bottom: 2em;
   display: block;
@@ -828,7 +828,7 @@ figure {
 }
 
 .fh5co-project>a span {
-  font-size: 14px;
+  font-size: 1rem;
   bottom: 1.2rem;
 }
 
@@ -857,7 +857,7 @@ figure {
 }
 
 .fh5co-project>a:hover span {
-  bottom: 15px;
+  bottom: 1rem;
 }
 
 .fh5co-project>a:hover img {
@@ -997,7 +997,7 @@ figure {
 
 .bs-wizard>.bs-wizard-step .bs-wizard-info {
   color: #999;
-  font-size: 14px;
+  font-size: 1rem;
   padding: 1.2rem;
 }
 
@@ -1009,15 +1009,15 @@ figure {
   background: #fbe8aa;
   top: 45px;
   left: 50%;
-  margin-top: -15px;
-  margin-left: -15px;
+  margin-top: -1rem;
+  margin-left: -1rem;
   border-radius: 50%;
 }
 
 .bs-wizard>.bs-wizard-step>.bs-wizard-dot:after {
   content: ' ';
-  width: 14px;
-  height: 14px;
+  width: 1rem;
+  height: 1rem;
   background: #fbbd19;
   border-radius: 3.12rem;
   position: absolute;
@@ -1346,9 +1346,9 @@ figure {
 }
 
 #fh5co-footer .fh5co-widget h3 {
-  margin-bottom: 15px;
+  margin-bottom: 1rem;
   font-weight: bold;
-  font-size: 15px;
+  font-size: 1rem;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
@@ -1464,7 +1464,7 @@ figure {
 }
 
 .uppercase {
-  font-size: 14px;
+  font-size: 1rem;
   color: #000;
   margin-bottom: 0.6rem;
   font-weight: 700;
@@ -1539,7 +1539,7 @@ figure {
   width: 25px;
   height: 2px;
   color: #252525;
-  font: bold 14px/.4 Helvetica;
+  font: bold 1rem/.4 Helvetica;
   text-transform: uppercase;
   text-indent: -55px;
   background: #252525;
