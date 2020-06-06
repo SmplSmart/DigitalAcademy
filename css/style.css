@@ -417,7 +417,7 @@ figure {
 
   .fh5co-cover .display-t,
   .fh5co-cover .display-tc {
-    height: 100vh;
+    height: 100vh !important;
   }
 }
 
@@ -1608,7 +1608,7 @@ figure {
 .fh5co-nav-toggle {
   position: absolute;
   right: 0px;
-  top: 2rem;
+  top: 2rem !important;
   z-index: 21;
   padding: 6px 0 0 0;
   display: block;
